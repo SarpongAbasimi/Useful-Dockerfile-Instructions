@@ -1,4 +1,4 @@
-Useful Dockerfile Instructions.
+# Some useful Dockerfile Instructions.
 
 - ``FROM`` — specifies the base (parent) image.
 - ``LABEL`` — provides metadata. Good place to include maintainer info.
